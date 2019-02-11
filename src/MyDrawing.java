@@ -9,8 +9,8 @@ public class MyDrawing extends JPanel {
 	private Photo photo;
 	private Sun sun;
 	private window w;
-	private Moon moon
-	public MyDrawing() 
+	private Moon moon;
+	public MyDrawing()
 	{
 		// Add critters to the drawing
 		cat = new Cat();
